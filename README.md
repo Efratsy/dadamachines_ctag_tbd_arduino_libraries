@@ -40,4 +40,4 @@ These libraries are included by default when you install the main `dadamachines_
 For development purposes, you can clone this repository directly into your Arduino sketchbook's `libraries` folder.
 
 ```bash
-git clone [https://github.com/dadamachines/dadamachines_ctag_tbd_arduino_libraries.git](https://github.com/dadamachines/dadamachines_ctag_tbd_arduino_libraries.git)
+git clone [https://github.com/Efratsy/dadamachines_ctag_tbd_arduino_libraries.git](https://github.com/Efratsy/dadamachines_ctag_tbd_arduino_libraries.git)
